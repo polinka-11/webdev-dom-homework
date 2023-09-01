@@ -187,8 +187,7 @@ fetchPromise();
         postTask();
         renderComents();
        
-   
-                      
+             
       });
     
     
@@ -197,8 +196,7 @@ fetchPromise();
       
       
      
-     
-   
+      
 
     console.log("It works!");
 
