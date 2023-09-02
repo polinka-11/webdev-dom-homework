@@ -130,8 +130,7 @@ function postTask(text) {
     if (error.message === "Сервер сломался") {
         postTask(text);
       }
-  
-  });
+    });
 }
 buttonElement.disabled = true;
 buttonElement.textContent = "Элемент добавлятся...";
